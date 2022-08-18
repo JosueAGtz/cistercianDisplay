@@ -19,8 +19,8 @@ const char* ntpServer = "pool.ntp.org";
 const long  gmtOffset_sec = -3600*6;
 const int   daylightOffset_sec = 3600;
 
-const char *ssid     = "Totalplay-AA59";
-const char *password = "F6D3AA59";
+const char *ssid     = "YourWifi";
+const char *password = "YourPassword";
 
 // 1 to 9 digit cistercian representation
                               // 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32
