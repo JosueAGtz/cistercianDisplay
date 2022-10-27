@@ -9,8 +9,8 @@
 ![displayDecode](https://github.com/JosueAGtz/cistercianDisplay/blob/main/Media/Cistercian%20decode.png?raw=true)
 
 ## RGB Cistercian Display Dimensions and Pinout
-![displayPinout](https://github.com/JosueAGtz/cistercianDisplay/blob/main/Media/Display%20pinout.png?raw=true)
 ![displayDimensions](https://github.com/JosueAGtz/cistercianDisplay/blob/main/Media/Display%20Dimensions.png?raw=true)
+![displayPinout](https://github.com/JosueAGtz/cistercianDisplay/blob/main/Media/Display%20pinout.png?raw=true)
 
 ## Cistercian Display 3D Model
 ![displayISOMesh](https://github.com/JosueAGtz/CistercianDisplay/blob/main/Media/Cistercian%20Display%20ISO.png)
