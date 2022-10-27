@@ -17,4 +17,5 @@
 ![display3D](https://github.com/JosueAGtz/CistercianDisplay/blob/main/Media/Cistercian%20Display.png)
 
 ## Cistercian Display Schematic
+[displaySCH](https://github.com/JosueAGtz/cistercianDisplay/blob/main/Media/RGB%20Cistercian%20Display%20Sch.png?raw=true)
 ![displaySCH](https://github.com/JosueAGtz/CistercianDisplay/blob/main/Media/CistercianSch.png)
