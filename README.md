@@ -3,6 +3,9 @@
 
 ## RGB Cistercian Display
 31 Segments RGB Cistercian Display with cascade SK6812 LEDs.
+
+![displayPhoto](https://savageelectronics.com/wp-content/uploads/2023/02/cistercianDisplayOSHWA-scaled.jpg)
+
 ![displayDriving](https://github.com/JosueAGtz/cistercianDisplay/blob/main/Media/SK6812%20Driving%20data.png?raw=true)
 
 ## Cistercian Display Decode
